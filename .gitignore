@@ -1,6 +1,8 @@
 .env
 \venv
-
+\datos_prueba_tecnica.csv
+\base_extraccion_bigQuery.csv
 __pycache__/
 *.py[cod]
 *.egg-info/
+\data_bigQuery.csv
