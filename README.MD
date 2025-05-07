@@ -8,7 +8,8 @@ Este proyecto comprende un análisis detallado del mercado inmobiliario de apart
 - Limpieza y eliminación de duplicados.
 - Identificación y tratamiento de valores atípicos.
 - Análisis exploratorio y segmentación de inmuebles mediante clustering.
-- Modelado estadístico para entender la relación entre valor del metro cuadrado y piso del apartamento.
+- Modelado estadístico para entender la relación entre valor del inmueble y el piso del 
+  apartamento.
 
 ---
 
@@ -16,15 +17,15 @@ Este proyecto comprende un análisis detallado del mercado inmobiliario de apart
 
 ```
 
-├── data/
-│   ├── raw/                   # Datos crudos originales.
-│   └── processed/             # Datos limpios y procesados.
-│
+
 ├── notebooks/
 │   └── analysis.ipynb         # Notebook principal con análisis completo.
 │
-├── sql                        # Las querys que se utilizaron para Bigquery, enumeradas para su 
-│                                correcta ejecución
+├── sql                        # Las querys que se utilizaron para extraer y transformar la data 
+│                                en Bigquery, enumeradas para su correcta ejecución.
+│
+├── docs
+│    └── pipeline.md           # Docuemnto que explica con mejor detalle el pipe line del análisis
 │
 ├── .gitignore             
 ├── README.md                  
