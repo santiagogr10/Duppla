@@ -1,5 +1,5 @@
 
-# 📊 Proyecto Análisis del Mercado Inmobiliario de Bogotá (Duppla challenge)
+# 📊 Proyecto Análisis del Mercado Inmobiliario de Bogotá
 
 ## 🔍 Descripción del Proyecto
 Este proyecto comprende un análisis detallado del mercado inmobiliario de apartamentos en Bogotá. El objetivo principal es identificar, limpiar, procesar y analizar datos provenientes de múltiples fuentes.
